@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**numan20408/numan20408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**im.ruf/im.ruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
